@@ -11,4 +11,4 @@ DEEP LEARNING LIBRARIES:
 Tensorflow, Python
 
 METRICS:
-Model achieved 99.2% accuracy on validation dataset.
+Model achieved 98.2% accuracy on validation dataset.
