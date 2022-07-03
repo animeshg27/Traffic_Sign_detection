@@ -16,3 +16,5 @@ This model has achieve more than 98%.
 
 ARCHITECTURE:
 VGGNET16 imagenet architecture
+
+Link:http://sersc.org/journals/index.php/IJAST/article/view/23353
