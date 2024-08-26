@@ -12,7 +12,7 @@ DEEP LEARNING LIBRARIES:
 Tensorflow, Python
 
 METRICS:
-This model has achieve more than 98%.
+This model has achieve more than 80%.
 
 ARCHITECTURE:
 VGGNET16 imagenet architecture
